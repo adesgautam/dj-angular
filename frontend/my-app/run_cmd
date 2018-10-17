@@ -1,0 +1,1 @@
+ng build --prod --output-path /your/path/backend/src/djangular/static/ang --watch --output-hashing none

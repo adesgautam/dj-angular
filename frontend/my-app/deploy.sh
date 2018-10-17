@@ -1,0 +1,1 @@
+ng build --prod --output-path ‎⁨/Users⁩/adeshgautam⁩/Desktop⁩/⁨docs⁩/djang-ang⁩/⁨backend⁩/my-app-name⁩/my-app⁩/static/ang⁩ --watch --output-hashing none

@@ -1,0 +1,17 @@
+[
+    {
+      "image": "/static/ang/assets/images/nature/1.jpg",
+      "title": "Item 1",
+      "link": "/videos/item-1"
+    },
+    {
+      "image": "/static/ang/assets/images/nature/2.jpg",
+      "title": "Item 2",
+      "link": "/videos/item-2"
+    },
+    {
+      "image": "/static/ang/assets/images/nature/3.jpg",
+      "title": "Item 3",
+      "link": "/videos/item-3"
+    }
+  ]
